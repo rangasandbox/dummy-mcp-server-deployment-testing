@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rangasandbox-dummy-mcp-server-deployment-testing-badge.png)](https://mseep.ai/app/rangasandbox-dummy-mcp-server-deployment-testing)
+
 # ScreenshotOne MCP Server
 
 An official implementation of an [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) server for [ScreenshotOne](https://screenshotone.com).
